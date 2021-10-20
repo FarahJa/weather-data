@@ -1,10 +1,10 @@
-# weather-data
+# Weather App
 This project displays weather data based on the user's location, and allows the user to search for the weather in any other city.
 
-##APIs
+## APIs
 - OpenWeatherMap 
 - ipInfo 
 
-##Built with
+## Built with
 - PHP
 - Bootstrap
