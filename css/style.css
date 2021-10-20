@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Boogaloo&display=swap');
+.intro{
+    
+    font-family: 'Boogaloo', cursive;
+    font-size: 20px;
+}
+.app-name{
+    font-family: 'Boogaloo', cursive;
+    font-size: 25px;
+}
+nav{
+    background: #FF0099;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #493240, #FF0099);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #493240, #FF0099); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+#vertical-line{
+    width: 4px;
+    background-color: rgb(156,27,105);
+    height: 250px;
+}
